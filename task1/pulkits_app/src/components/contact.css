@@ -1,0 +1,44 @@
+.containerSection {
+    margin: 20px;
+}
+
+.contactSection {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.contactInfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.infoItem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.infoItem i {
+    font-size: 18px;
+    margin-right: 10px;
+    transform: translate(6px,6px);
+}
+
+.infoItem p {
+    font-size: 16px;
+}
+
+/* Example styles for Font Awesome icons */
+.fa-solid.fa-envelope:before {
+    content: "\f0e0";
+}
+
+.fa-brands.fa-twitter:before {
+    content: "\f099";
+}
+
+.fa-brands.fa-linkedin:before {
+    content: "\f08c";
+}

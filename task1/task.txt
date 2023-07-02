@@ -1,0 +1,2 @@
+Task 1:
+Make a simple component like Home, About,Contact with custom css and create an react app
