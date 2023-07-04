@@ -1,0 +1,13 @@
+Make a simple website using react router dom with using any css framework 
+
+contain pages:
+
+Home page
+about Page
+contact Page
+Skill page
+also have a navbar with simple footer 
+
+disclaimer:
+task is submit before evening meeting 
+task is submit on group in zip file without node_modules
